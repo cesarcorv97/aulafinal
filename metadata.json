@@ -1,0 +1,8 @@
+
+{
+  "name": "AulaIA",
+  "description": "Una plataforma de transcripción y resumen de clases impulsada por IA para estudiantes. Sube grabaciones de audio de tus clases para obtener resúmenes instantáneos y puntos clave usando Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
